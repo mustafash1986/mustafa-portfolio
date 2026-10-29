@@ -83,17 +83,23 @@ const pool = boxM(5.5, .03, 1.6, acrylic, -3.2, .08, 2.6); pool.castShadow = fal
 // terraced floors: each floor steps back to leave a planted terrace at the front
 const FLOORS = 5, FH = 1;
 const layers = [];
+const plate = (i) => ({ w: 10.4 - i * .9, d: 5.4 - i * .45, z: -1.2 - i * .42, y: .06 + i * FH });
 for (let i = 0; i <= FLOORS; i++) {
   const g = new THREE.Group(); model.add(g); layers.push(g);
-  const w = 10.4 - i * .9, d = 5.4 - i * .45, z = -1.2 - i * .42, y = .06 + i * FH;
+  const { w, d, z, y } = plate(i);
   boxM(w, .12, d, i === FLOORS ? card2 : card, 0, y + .06, z, g);      // slab
   if (i === FLOORS) continue;
-  const glass = boxM(w - .5, FH - .12, d - .5, acrylic, 0, y + .12 + (FH - .12) / 2, z, g); glass.castShadow = false;
-  const cg = new THREE.CylinderGeometry(.035, .035, FH - .12, 8);
-  for (let x = -w / 2 + .3; x <= w / 2 - .29; x += .8) mk(cg, card, x, y + .12 + (FH - .12) / 2, z + d / 2 - .18, g);   // colonnade
-  boxM(w - .5, FH - .5, .06, card2, 0, y + .62, z - d / 2 + .3, g);    // solid rear wall
-  if (i > 0) for (let x = -w / 2 + .5; x < w / 2 - .4; x += 1.1) {       // planters on the terrace in front of this floor
-    mk(new THREE.SphereGeometry(.16, 16, 12), felt, x, y + .26, z + d / 2 + .22, g);
+  // the storey sits exactly under the (smaller) slab above; the strip of this slab left in front is its terrace
+  const up = plate(i + 1), h = FH - .12, cy = y + .12 + h / 2, front = up.z + up.d / 2;
+  const glass = boxM(up.w - .16, h, up.d - .16, acrylic, 0, cy, up.z, g); glass.castShadow = false;
+  const cg = new THREE.CylinderGeometry(.035, .035, h, 8);
+  const n = Math.round((up.w - .3) / .8), step = (up.w - .3) / n;
+  for (let k = 0; k <= n; k++) mk(cg, card, -up.w / 2 + .15 + k * step, cy, front - .1, g);     // colonnade along the slab edge above
+  boxM(up.w - .16, h, .06, card2, 0, cy, up.z - up.d / 2 + .11, g);                               // rear wall, floor to ceiling
+  for (const s of [-1, 1]) boxM(.06, h, up.d * .45, card2, s * (up.w / 2 - .11), cy, up.z - up.d * .275 + .08, g);   // solid flank walls at the back
+  if (i > 0) {                                                          // planters along this floor's front terrace
+    const tz = (front + z + d / 2) / 2;
+    for (let x = -up.w / 2 + .4; x < up.w / 2 - .3; x += 1.1) mk(new THREE.SphereGeometry(.15, 16, 12), felt, x, y + .26, tz, g);
   }
 }
 // service core and entrance canopy
