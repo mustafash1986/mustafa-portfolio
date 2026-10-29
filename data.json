@@ -1,0 +1,720 @@
+[
+ {
+  "slug": "kuhsc",
+  "sheet": "A-101",
+  "title": "Kuwait University Health Sciences Campus (KUHSC)",
+  "firm": "Pace",
+  "category": "Educational & Healthcare",
+  "desc": "The site dedicated to the establishment of Sabah Al-Salem University Campus is within an area of about 6 million square meters in the Al-Shadadiyah area, situated within the boundaries of Al Farwaniya Governorate, allocated by the Kuwait Municipality for this purpose. The Health Sciences Campus (HSC) is located on the West side of the main campus of Kuwait University, separated by University Avenue Road. It is an integral part of the Sabah Al-Salem University City, while functioning as an independent self-supporting entity. Both campuses are interconnected by University Ring Road (URR). HSC is accessed via URR, which connects to the Sixth Ring Road from the North, the proposed Road 605 interconnecting Seventh and Sixth Ring Roads on the West, and via Road 602 from the East.",
+  "scope": [
+   "Resolved design concerns through client and consultant engagement, maintaining design quality and project progress.",
+   "Managed the preparation and coordination of working drawings for the Allied Health Building and Learning Resource Centre throughout multiple design stages.",
+   "Reviewed and updated architectural documentation in response to client feedback, consultant comments, and evolving project requirements.",
+   "Coordinated architectural, structural, MEP, and interior-design disciplines, resolving interdisciplinary clashes using Autodesk Revit and BIM 360.",
+   "Served as Medical Coordinator, liaising with laboratory specialists and end users to capture and integrate functional requirements into the design."
+  ],
+  "images": [
+   "assets/p/kuhsc/01",
+   "assets/p/kuhsc/02",
+   "assets/p/kuhsc/03",
+   "assets/p/kuhsc/04",
+   "assets/p/kuhsc/05",
+   "assets/p/kuhsc/06",
+   "assets/p/kuhsc/07"
+  ],
+  "stats": [
+   {
+    "v": "6M m²",
+    "l": "Campus Area"
+   },
+   {
+    "v": "2 Major",
+    "l": "Faculties (Allied & LRC)"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "mubarak-staff-college",
+  "sheet": "A-102",
+  "title": "Mubarak Al Abdullah Joint Command & Staff College",
+  "firm": "KTCB",
+  "category": "Educational & Healthcare",
+  "desc": "This large-scale Joint Command and Staff Complex is planned as an integrated military campus in the Sabah Al-Ahmad area of South Surra, near the Ministries Zone. Developed on a site of approximately 934,300 m², the project accommodates a population of approximately 300–500 military officers and civilian staff, providing a secure and fully serviced environment for command, education, training, accommodation, and operational support. The masterplan combines institutional, academic, residential, recreational, ceremonial, and infrastructure functions within a unified and highly organized campus. Its planning prioritizes controlled access, efficient internal circulation, operational security, and a high-quality environment for personnel, visitors, and official events. Parking provisions include 1,331 internal spaces and 937 external spaces.",
+  "scope": [
+   "Produced and revised architectural working drawings in line with international design standards.",
+   "Developed design solutions to resolve complex architectural and technical challenges.",
+   "Reviewed and validated submitted Revit models to maintain BIM accuracy, coordination, and model integrity.",
+   "Ensured compliance with Fire & Life Safety requirements across project stages.",
+   "Identified and resolved compliance gaps to support regulatory approval and coordinated project delivery."
+  ],
+  "images": [
+   "assets/p/mubarak-staff-college/01",
+   "assets/p/mubarak-staff-college/02",
+   "assets/p/mubarak-staff-college/03",
+   "assets/p/mubarak-staff-college/04",
+   "assets/p/mubarak-staff-college/05",
+   "assets/p/mubarak-staff-college/06",
+   "assets/p/mubarak-staff-college/07",
+   "assets/p/mubarak-staff-college/08"
+  ],
+  "stats": [
+   {
+    "v": "934,300 m²",
+    "l": "Site Area"
+   },
+   {
+    "v": "300–500",
+    "l": "Officer Population"
+   }
+  ],
+  "ratio": 1.792
+ },
+ {
+  "slug": "school-kindergarten",
+  "sheet": "A-103",
+  "title": "Typical Secondary School & Kindergarten",
+  "firm": "KTCB",
+  "category": "Educational & Healthcare",
+  "desc": "The project comprises two secondary schools—one for boys and one for girls—based on an identical architectural design, with minor adjustments to selected functional spaces. Each school is located on a hypothetical 20,000 m² site and is arranged over three floors: a ground floor of approximately 10,616 m², a first floor of 5,493 m², and a second floor of 4,400 m². A separate single-storey kindergarten is planned on a 7,500 m² site, with an approximate net built-up area of 5,830 m². The development is designed to provide functional, safe, and well-coordinated learning environments for students and staff.",
+  "scope": [
+   "Produced and coordinated comprehensive working-drawing packages for the educational facilities.",
+   "Developed practical architectural design solutions to address functional, technical, and operational requirements.",
+   "Reviewed and revised drawings to reflect design updates, stakeholder feedback, and project requirements.",
+   "Refined architectural details and specifications to improve buildability, quality, and documentation accuracy.",
+   "Incorporated and responded to comments issued by the Public Authority for Housing Welfare, ensuring alignment with relevant client requirements.",
+   "Coordinated architectural deliverables with structural, MEP, and other multidisciplinary teams to maintain design integration and resolve coordination issues."
+  ],
+  "images": [
+   "assets/p/school-kindergarten/01",
+   "assets/p/school-kindergarten/02",
+   "assets/p/school-kindergarten/03",
+   "assets/p/school-kindergarten/04",
+   "assets/p/school-kindergarten/05",
+   "assets/p/school-kindergarten/06"
+  ],
+  "stats": [
+   {
+    "v": "20,000 m²",
+    "l": "Per School Site"
+   },
+   {
+    "v": "3 Floors",
+    "l": "G + 2 Typical"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "national-guard-clinic",
+  "sheet": "A-104",
+  "title": "Kuwait National Guard Medical Centre (Day Surgery)",
+  "firm": "KTCB",
+  "category": "Educational & Healthcare",
+  "desc": "The Kuwait National Guard Medical Centre (Day Surgery) is located within Al-Tahrir Camp in Mubarak Al-Kabeer Governorate, south of the Sixth Ring Road. The facility is a new-build, purpose-designed day surgery and outpatient medical centre serving Kuwait National Guard personnel and their families. The building comprises a Ground Floor plus five typical floors, with a total floor area of approximately 1,100 m² per floor, served by lifts, staircases, and dedicated mechanical and electrical service rooms on each level.",
+  "scope": [
+   "Coordinated architectural, structural, and MEP disciplines to ensure fully integrated and technically coordinated design solutions.",
+   "Liaised directly with the medical consultant to validate clinical requirements and translate them into compliant architectural solutions.",
+   "Facilitated coordination between medical consultants and MEP teams, resolving technical conflicts and maintaining alignment with clinical and operational requirements.",
+   "Produced coordinated working drawings, including detailed door and window schedules, systems, and design packages.",
+   "Led the selection of interior finishes, ensuring compliance with healthcare functionality, hygiene, durability, and aesthetic standards."
+  ],
+  "images": [
+   "assets/p/national-guard-clinic/01",
+   "assets/p/national-guard-clinic/02",
+   "assets/p/national-guard-clinic/03",
+   "assets/p/national-guard-clinic/04",
+   "assets/p/national-guard-clinic/05",
+   "assets/p/national-guard-clinic/06",
+   "assets/p/national-guard-clinic/07"
+  ],
+  "stats": [
+   {
+    "v": "G + 5",
+    "l": "Clinical Floors"
+   },
+   {
+    "v": "7",
+    "l": "Specialized Depts"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "kgoc-hq",
+  "sheet": "A-201",
+  "title": "Kuwait Gulf Oil Company (KGOC) Headquarters",
+  "firm": "KTCB",
+  "category": "Administrative & Corporate",
+  "desc": "The design concept for the KGOC Building is driven by the ambition to create a distinctive, efficient, and internationally recognizable corporate landmark in Ahmadi. The proposal minimizes the building footprint to preserve generous open space, strengthen the overall site identity, and maintain a clear relationship between the building mass, landscape, and surrounding urban context. The building is conceived as a five-storey office development, with the two side wings articulated through staggered floor plates. This arrangement breaks down the overall scale of the mass, creates terraces and shaded outdoor areas, and enhances visual permeability across the building. The stepped configuration also improves daylight access, internal comfort, and transparency between workspaces, circulation areas, and the exterior environment. As one of Kuwait’s leading oil companies with a prominent role across the Gulf region, Kuwait Gulf Oil Company requires a headquarters that reflects its strategic importance and global aspirations. The architecture therefore combines a strong corporate presence with a contemporary, environmentally responsive form, positioning the KGOC Building as a memorable landmark and a symbol of innovation, performance, and long-term growth in Ahmadi.",
+  "scope": [
+   "Partnered in the development of the project’s architectural massing and overall design concept.",
+   "Produced and coordinated detailed working drawings through all design stages.",
+   "Supported design development by translating project requirements into coordinated architectural solutions.",
+   "Reviewed and revised drawings to ensure accuracy, consistency, and alignment with project requirements.",
+   "Prepared comprehensive drawing packages and technical specification documents.",
+   "Gathered, assessed, and integrated design information from relevant stakeholders and consultants.",
+   "Coordinated architectural deliverables with structural, MEP, and other multidisciplinary teams to maintain full design integration."
+  ],
+  "images": [
+   "assets/p/kgoc-hq/01",
+   "assets/p/kgoc-hq/02",
+   "assets/p/kgoc-hq/03",
+   "assets/p/kgoc-hq/04",
+   "assets/p/kgoc-hq/05",
+   "assets/p/kgoc-hq/06",
+   "assets/p/kgoc-hq/07",
+   "assets/p/kgoc-hq/08"
+  ],
+  "stats": [
+   {
+    "v": "102,000 m²",
+    "l": "Project Area"
+   },
+   {
+    "v": "36,738 m²",
+    "l": "Building Area"
+   }
+  ],
+  "ratio": 1.792
+ },
+ {
+  "slug": "kdsc",
+  "sheet": "A-202",
+  "title": "Kuwait Digital Startup City (KDSC)",
+  "firm": "Pace",
+  "category": "Administrative & Corporate",
+  "desc": "Located in Mubarak Al-Abdullah City, the Kuwait Digital Skills Center (KDSC) is a technology-focused campus positioned between the residential community and the educational district of West Mishref. Its strategic location near the School of Aviation, Australian University, Gulf University, and Kuwait International Fairground supports its role as a destination for learning, innovation, and knowledge exchange. KDSC provides a dynamic platform for local start-ups, small and medium-sized enterprises, incubator operators, and media and technology companies working in ICT and digital transformation. The campus is designed to support experimentation, collaboration, skills development, and business growth, helping emerging entrepreneurs develop ideas into sustainable ventures. The project combines specialized technology facilities with flexible workspaces, training areas, and shared social spaces. It also includes a dedicated one-stop service centre to help young entrepreneurs accelerate required ministerial processes and business-related services in Kuwait.",
+  "scope": [
+   "Produced and revised architectural working drawings in accordance with international design standards.",
+   "Developed architectural design solutions to resolve complex functional and technical challenges.",
+   "Reviewed and validated submitted Revit models, ensuring BIM accuracy, coordination, and model integrity.",
+   "Ensured compliance with Fire and Life Safety requirements, identifying and resolving design gaps throughout all project stages."
+  ],
+  "images": [
+   "assets/p/kdsc/01",
+   "assets/p/kdsc/02",
+   "assets/p/kdsc/03",
+   "assets/p/kdsc/04",
+   "assets/p/kdsc/05"
+  ],
+  "stats": [
+   {
+    "v": "5+",
+    "l": "Lab Typologies"
+   },
+   {
+    "v": "1",
+    "l": "ICT Innovation Hub"
+   }
+  ],
+  "ratio": 1.792
+ },
+ {
+  "slug": "ministries-complex-jahraa",
+  "sheet": "A-203",
+  "title": "Ministries Complex, Al-Jahra",
+  "firm": "KTCB",
+  "category": "Administrative & Corporate",
+  "desc": "The Ministries Complex in Jahra is a major government development that consolidates multiple ministries and public-service entities within one integrated administrative destination. The project combines office facilities, public services, training and staff areas, retail support, and landscaped civic spaces within a contemporary, efficient, and secure environment.",
+  "scope": [
+   "Produced and coordinated comprehensive working drawings throughout the design process.",
+   "Supported design development by translating project requirements into coordinated architectural solutions.",
+   "Reviewed and revised drawings in response to design updates, consultant feedback, and project requirements.",
+   "Prepared drawing packages and technical specification documents.",
+   "Gathered, reviewed, and organized design information to support accurate documentation.",
+   "Coordinated with architectural, structural, MEP, and other project disciplines to maintain design integration."
+  ],
+  "images": [
+   "assets/p/ministries-complex-jahraa/01",
+   "assets/p/ministries-complex-jahraa/02",
+   "assets/p/ministries-complex-jahraa/03",
+   "assets/p/ministries-complex-jahraa/04",
+   "assets/p/ministries-complex-jahraa/05",
+   "assets/p/ministries-complex-jahraa/06",
+   "assets/p/ministries-complex-jahraa/07"
+  ],
+  "stats": [
+   {
+    "v": "300,000 m²",
+    "l": "Project Area"
+   },
+   {
+    "v": "194,402 m²",
+    "l": "Building Area"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "national-guard-storage",
+  "sheet": "A-204",
+  "title": "Kuwait National Guard Secure Storage Facilities",
+  "firm": "KTCB",
+  "category": "Administrative & Corporate",
+  "desc": "This project involves the design of two secure military warehouse facilities for the storage of weapons, ammunition, and protective equipment for Kuwait National Guard units. The facilities are located at Al-Tahreer Camp in Mubarak Al-Kabeer Governorate and Al-Samoud Camp in Kuwait City, supporting the operational, logistical, and security requirements of their respective military units. The design approach focused on providing secure, efficient, and operationally clear facilities that respond to strict military requirements. The proposal considers controlled access, safe loading and unloading, dedicated cleaning and maintenance areas, administrative and staff-support spaces, sanitary facilities, and the required security systems.",
+  "scope": [
+   "Developed Design Alternative 3 for both military warehouse facilities, responding to site constraints, functional requirements, and required security considerations.",
+   "Created architectural massing and geometric models to evaluate building configuration, space planning, circulation, and relationships between secure operational zones.",
+   "Prepared preliminary architectural plans and layout proposals to communicate the selected design alternative.",
+   "Investigated available project information, site conditions, and operational requirements to establish a clear and informed design basis.",
+   "Collected, reviewed, and documented client requirements, translating them into practical planning and design recommendations.",
+   "Presented the proposed design alternative to stakeholders and refined the proposal through subsequent design-development stages."
+  ],
+  "images": [
+   "assets/p/national-guard-storage/01",
+   "assets/p/national-guard-storage/02",
+   "assets/p/national-guard-storage/03",
+   "assets/p/national-guard-storage/04",
+   "assets/p/national-guard-storage/05",
+   "assets/p/national-guard-storage/06",
+   "assets/p/national-guard-storage/07",
+   "assets/p/national-guard-storage/08"
+  ],
+  "stats": [
+   {
+    "v": "2 Bases",
+    "l": "Al-Tahreer & Al-Samoud"
+   },
+   {
+    "v": "Military",
+    "l": "Secure Storage"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "paci-extension",
+  "sheet": "A-205",
+  "title": "The Public Authority for Civil Information (PACI) Expansion",
+  "firm": "KTCB",
+  "category": "Administrative & Corporate",
+  "desc": "The Public Authority for Civil Information Expansion Building was designed to extend the Authority’s main headquarters in Al-Zahraa and accommodate growing demand for government services, additional offices, and civil ID card-issuance facilities. The project is planned as an integrated extension that supports efficient public access, staff operations, and future capacity growth. Developed on an approximately 5,000 m² plot previously used for surface parking, the design carefully responds to the existing headquarters, surrounding government district, and complex vehicular and pedestrian circulation requirements. The architectural approach combines contemporary functionality with a visual language that respects Kuwait’s cultural identity and principles of sustainable design.",
+  "scope": [
+   "Developed working drawings and design-development packages.",
+   "Reviewed, revised, and coordinated architectural drawings.",
+   "Prepared drawing packages and technical specification documents.",
+   "Gathered and organized design information from relevant stakeholders.",
+   "Coordinated architectural requirements with multidisciplinary teams.",
+   "Conducted detailed working drawings for the façade pattern-design concept."
+  ],
+  "images": [
+   "assets/p/paci-extension/01",
+   "assets/p/paci-extension/02",
+   "assets/p/paci-extension/03",
+   "assets/p/paci-extension/04",
+   "assets/p/paci-extension/05",
+   "assets/p/paci-extension/06",
+   "assets/p/paci-extension/07"
+  ],
+  "stats": [
+   {
+    "v": "5,000 m²",
+    "l": "Site Footprint"
+   },
+   {
+    "v": "7",
+    "l": "Operational Depts"
+   }
+  ],
+  "ratio": 1.792
+ },
+ {
+  "slug": "dhaniya-youth-center",
+  "sheet": "A-301",
+  "title": "Dahiya Sabah Al-Salem Youth Center",
+  "firm": "KTCB",
+  "category": "Civic, Islamic & Competitions",
+  "desc": "The Dahiya Sabah Al-Salem Youth Center is a major community and sports development commissioned by the Public Authority for Sports in Sabah Al-Salem, Kuwait. The project supports the Authority’s wider vision of strengthening local communities through accessible recreational facilities, sports participation, athlete development, and programs that promote a healthy and active lifestyle. Developed on a site area of approximately 71,490 m², the center is conceived as an integrated destination for youth, families, and the wider community. It brings together management, cultural, sports, commercial, and leisure functions within a dynamic public setting, supported by landscaped outdoor areas, generous parking provisions, and clear visitor circulation. The project includes administrative facilities, cultural and sports spaces, retail amenities for men and women, car-parking facilities, an underground parking level, and a multi-storey car park. With an estimated value of KD 15.5 million, the development represents a significant investment in social infrastructure and community well-being in the Sabah Al-Salem area.",
+  "scope": [
+   "Produced and coordinated detailed working drawings across the project package.",
+   "Reviewed and revised drawings in response to design updates, consultant feedback, and project requirements.",
+   "Prepared architectural drawing packages and specification documents.",
+   "Gathered, reviewed, and organized design information to support accurate documentation and informed design decisions.",
+   "Coordinated architectural deliverables with structural, MEP, and other project disciplines to maintain technical integration and resolve coordination issues."
+  ],
+  "images": [
+   "assets/p/dhaniya-youth-center/01",
+   "assets/p/dhaniya-youth-center/02",
+   "assets/p/dhaniya-youth-center/03",
+   "assets/p/dhaniya-youth-center/04",
+   "assets/p/dhaniya-youth-center/05",
+   "assets/p/dhaniya-youth-center/06",
+   "assets/p/dhaniya-youth-center/07",
+   "assets/p/dhaniya-youth-center/08"
+  ],
+  "stats": [
+   {
+    "v": "71,490 m²",
+    "l": "Project Area"
+   },
+   {
+    "v": "KD 15M",
+    "l": "Project Cost"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "olympic-city",
+  "sheet": "A-302",
+  "title": "Kuwait Olympic City (Competition)",
+  "firm": "KTCB",
+  "category": "Civic, Islamic & Competitions",
+  "desc": "Dew Drops on a Green Leaf — The architectural concept for Kuwait Olympic City is inspired by the image of dew drops resting on a green leaf, a symbol of freshness, energy, renewal, and harmony with the landscape. The sports arenas are conceived as distinct yet interconnected “drops,” carefully positioned across a continuous green setting to create a unified Olympic destination. From above, the arrangement of the arenas forms a memorable organic pattern, transforming the masterplan into a powerful visual identity. Each venue maintains its own functional character while contributing to a larger composition that can evolve into a recognizable symbol for the city, the event, and the wider sporting community. This approach combines iconic simplicity with world-class sporting infrastructure. By integrating landmark arenas, generous green spaces, and a cohesive architectural language, Kuwait Olympic City is envisioned as a destination that strengthens Kuwait’s presence as a leading sports hub across the GCC and Arab world.",
+  "scope": [
+   "Served as the Lead Designer for the Swimming Pool and Football Arena, developing their architectural concepts, planning, and overall design direction.",
+   "Led the collection, review, and organization of key design, technical, and functional data to inform the design process.",
+   "Coordinated design input across relevant disciplines to maintain alignment between architectural intent, technical requirements, and project objectives."
+  ],
+  "images": [
+   "assets/p/olympic-city/01",
+   "assets/p/olympic-city/02",
+   "assets/p/olympic-city/03",
+   "assets/p/olympic-city/04",
+   "assets/p/olympic-city/05",
+   "assets/p/olympic-city/06",
+   "assets/p/olympic-city/07",
+   "assets/p/olympic-city/08"
+  ],
+  "stats": [
+   {
+    "v": "213,600 m²",
+    "l": "Project Area"
+   },
+   {
+    "v": "25,000",
+    "l": "Football Arena Seats"
+   }
+  ],
+  "ratio": 2.282
+ },
+ {
+  "slug": "islamic-center-jaber",
+  "sheet": "A-303",
+  "title": "Islamic Center, Jaber Al-Ahmad City",
+  "firm": "KTCB",
+  "category": "Civic, Islamic & Competitions",
+  "desc": "The Islamic Center comprises the Great Mosque of Jaber Al-Ahmad City, an Amiri Suite, Mosque Administration facilities, and several service departments affiliated with the Ministry of Awqaf and Islamic Affairs. The project aims to establish a religious and cultural center for the city through an architectural vision that reflects the spirit and principles of Islamic and Arab architecture in a contemporary manner. It is envisioned as a distinctive visual landmark and a dominant element within the urban composition of the new city.",
+  "scope": [
+   "Developed working drawings and design-development packages.",
+   "Reviewed, revised, and coordinated architectural drawings.",
+   "Prepared drawing packages and technical specification documents.",
+   "Gathered and organized design information from relevant stakeholders.",
+   "Coordinated architectural requirements with multidisciplinary teams.",
+   "Conducted massing studies and developed Islamic pattern-design concepts."
+  ],
+  "images": [
+   "assets/p/islamic-center-jaber/01",
+   "assets/p/islamic-center-jaber/02",
+   "assets/p/islamic-center-jaber/03",
+   "assets/p/islamic-center-jaber/04",
+   "assets/p/islamic-center-jaber/05"
+  ],
+  "stats": [
+   {
+    "v": "32,378 m²",
+    "l": "Building Area"
+   },
+   {
+    "v": "7",
+    "l": "Programme Components"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "sohag-mosque",
+  "sheet": "A-304",
+  "title": "Sohag Neighbourhood Mosque",
+  "firm": "Charity",
+  "category": "Civic, Islamic & Competitions",
+  "desc": "The architectural concept is inspired by the divine signs found throughout creation, translating spiritual reflection into a contemporary mosque form. The design begins with the earth and the life that emerges from it, expressed through a palm-tree-inspired minaret, an emblem of growth, resilience, and the natural landscape. The architectural journey then develops through flowing, wave-like forms that evoke the sea and the Ark, symbolizing protection, passage, and faith. It culminates in the moon, whose ordained phases are recalled through a curved form inspired by the old date-palm stalk, creating a poetic connection between nature, time, and divine order. Along the external walls, Quranic verses are integrated as a contemplative architectural element, including the meaning of: “Everyone upon the earth will perish, and there will remain the Face of your Lord, Owner of Majesty and Honour.” The inscription serves as a lasting reminder of human mortality, the permanence of the Creator, and the spiritual purpose of worship.",
+  "scope": [
+   "Developed the architectural concept, translating the project’s spiritual narrative into a clear and contemporary design vision.",
+   "Produced and refined the architectural model to evaluate massing, spatial relationships, façade composition, and key design features.",
+   "Gathered, assessed, and organized design information to establish the project brief and support informed design decisions."
+  ],
+  "images": [
+   "assets/p/sohag-mosque/01",
+   "assets/p/sohag-mosque/02",
+   "assets/p/sohag-mosque/03",
+   "assets/p/sohag-mosque/04",
+   "assets/p/sohag-mosque/05"
+  ],
+  "stats": [
+   {
+    "v": "645",
+    "l": "Main Hall Capacity"
+   },
+   {
+    "v": "Palm Tree",
+    "l": "Minaret Form"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "palm-hotel",
+  "sheet": "A-401",
+  "title": "Palms Hotel Project Concept",
+  "firm": "Trends",
+  "category": "Commercial & Mixed-Use",
+  "desc": "Palms Hotel Project is a contemporary hospitality development that combines accommodation, wellness, dining, business, and event facilities within a single integrated destination. The project is designed to offer guests a comfortable and memorable experience, balancing efficient hotel operations with inviting public spaces, landscaped outdoor areas, and flexible venues for social and corporate events. The development occupies a land area of 6,817.5 m², with a total building area of 2,630 m². Its planning integrates guest accommodation with leisure, dining, and event functions, creating a distinctive destination for both visitors and the local community.",
+  "scope": [
+   "Developed the architectural concept, establishing the project’s hospitality vision, spatial character, and overall design direction.",
+   "Produced and refined architectural models to study massing, guest circulation, functional relationships, and the integration of hotel, leisure, and event facilities.",
+   "Gathered, reviewed, and organized relevant design information to define project requirements and support informed design decisions."
+  ],
+  "images": [
+   "assets/p/palm-hotel/01",
+   "assets/p/palm-hotel/02",
+   "assets/p/palm-hotel/03",
+   "assets/p/palm-hotel/04",
+   "assets/p/palm-hotel/05",
+   "assets/p/palm-hotel/06"
+  ],
+  "stats": [
+   {
+    "v": "116",
+    "l": "Rooms & Suites"
+   },
+   {
+    "v": "2,630 m²",
+    "l": "Building Area"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "al-reqa-coop",
+  "sheet": "A-402",
+  "title": "Al-Riqqa Co-operative Society Renovation",
+  "firm": "KTCB",
+  "category": "Commercial & Mixed-Use",
+  "desc": "Al-Riqqa Co-operative Society Renovation is a redevelopment proposal for the existing central market building, aimed at upgrading its architectural character, customer experience, and operational efficiency. The concept preserves the familiar identity of the co-operative society while introducing a contemporary façade treatment, improved entrances, and a more welcoming public realm. The design combines durable exposed stone finishes with modern red façade panels and turquoise accents, creating a clear and recognizable visual identity. External improvements include upgraded pedestrian access, landscaped seating areas, shaded zones, and organized vehicle circulation to enhance the arrival experience. The ground floor is planned around the existing central market, with a defined main entrance, security point, administration offices, vertical circulation, service access, and external parking. The mezzanine level accommodates a series of rentable retail units overlooking the market space, maximizing the commercial potential of the existing building.",
+  "scope": [
+   "Developed the renovation concept and façade design for the existing co-operative society building.",
+   "Prepared architectural layouts for the ground and mezzanine levels, including retail units, offices, access, and circulation.",
+   "Produced 3D models and presentation renderings to communicate the proposed design vision.",
+   "Selected façade materials, colours, signage locations, and landscape features to strengthen the building identity and public presence.",
+   "Gathered project information and translated existing-site constraints into coordinated, practical design proposals."
+  ],
+  "images": [
+   "assets/p/al-reqa-coop/01",
+   "assets/p/al-reqa-coop/02",
+   "assets/p/al-reqa-coop/03",
+   "assets/p/al-reqa-coop/04",
+   "assets/p/al-reqa-coop/05"
+  ],
+  "stats": [
+   {
+    "v": "Renovation",
+    "l": "& Expansion"
+   },
+   {
+    "v": "Central",
+    "l": "Market Upgrade"
+   }
+  ],
+  "ratio": 1.792
+ },
+ {
+  "slug": "shamia-coop",
+  "sheet": "A-403",
+  "title": "Shamiya & Shuwaikh Co-operation",
+  "firm": "Trends",
+  "category": "Commercial & Mixed-Use",
+  "desc": "The Shamiya and Shuwaikh Co-operation is designed as a compact, accessible commercial destination that brings together essential daily services under one roof. The planning is organized around a central supermarket, supported by a clear circulation route that connects specialty shops and service spaces, creating a convenient and legible experience for visitors. The architectural design combines rectilinear retail volumes with curved entrance and corner elements, creating a recognizable and welcoming identity. The project supports everyday community needs by integrating food retail, convenience services, and local shopping within an efficient and flexible layout.",
+  "scope": [
+   "Developed the architectural concept, establishing the project’s retail identity, spatial organization, and visitor experience.",
+   "Produced and refined the architectural model to evaluate massing, façade composition, circulation, and functional relationships between the retail units.",
+   "Gathered, reviewed, and organized project requirements and design information to support informed planning and design decisions."
+  ],
+  "images": [
+   "assets/p/shamia-coop/01",
+   "assets/p/shamia-coop/02",
+   "assets/p/shamia-coop/03",
+   "assets/p/shamia-coop/04",
+   "assets/p/shamia-coop/05"
+  ],
+  "stats": [
+   {
+    "v": "8",
+    "l": "Retail Units"
+   },
+   {
+    "v": "Central",
+    "l": "Supermarket Core"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "dubai-creek-tower",
+  "sheet": "A-404",
+  "title": "Dubai Iconic Tower (Dubai Creek Harbour Landmark)",
+  "firm": "Pace",
+  "category": "Commercial & Mixed-Use",
+  "desc": "The Dubai Creek Harbour Landmark Tower is conceived as an iconic mixed-use destination within the Dubai Creek Harbour Masterplan. The project combines a prominent landmark structure with an active public realm, creating a focal point for residents and visitors through retail, dining, cultural, and event-oriented experiences. The architectural strategy emphasizes a strong relationship between the tower and its surrounding landscaped parkland. Its planning integrates public gathering spaces, shaded pedestrian routes, waterfront-oriented amenities, and supporting back-of-house facilities to ensure a high-quality visitor experience and efficient operation.",
+  "scope": [
+   "Reviewed more than 100 architectural drawings within a one-week period.",
+   "Conducted detailed design and technical assessments to identify inconsistencies, coordination issues, and potential delivery risks.",
+   "Documented critical deficiencies and communicated findings to support timely corrective actions.",
+   "Helped safeguard design quality and maintain the overall progress of the project."
+  ],
+  "images": [
+   "assets/p/dubai-creek-tower/01",
+   "assets/p/dubai-creek-tower/02",
+   "assets/p/dubai-creek-tower/03",
+   "assets/p/dubai-creek-tower/04",
+   "assets/p/dubai-creek-tower/05",
+   "assets/p/dubai-creek-tower/06",
+   "assets/p/dubai-creek-tower/07",
+   "assets/p/dubai-creek-tower/08"
+  ],
+  "stats": [
+   {
+    "v": "100+",
+    "l": "Drawings Reviewed"
+   },
+   {
+    "v": "1 Week",
+    "l": "Compressed Review"
+   }
+  ],
+  "ratio": 1.792
+ },
+ {
+  "slug": "salmia-coop",
+  "sheet": "A-405",
+  "title": "Al-Salmia Co-operative Society Administration",
+  "firm": "Trends",
+  "category": "Commercial & Mixed-Use",
+  "desc": "The architectural concept is inspired by the value of time and its essential role in productivity, growth, and effective management. The building is conceived as a physical expression of time management, an environment where organization, efficiency, and purposeful work come together to support the institution’s mission. The main façade is shaped as a clock-inspired landmark, transforming the idea of time into a strong architectural identity. A circular upper crown, metallic ring elements, vertical fins, and a central vertical mast abstractly reference the clock face, hands, and markers, creating a recognizable focal point for the building. The curved entrance volume symbolizes movement and continuity, while the extended roof canopy visually connects the iconic clock element with the main administrative block. This composition creates a clear hierarchy between the public entrance, the operational workspaces, and the management functions within the building. Through this approach, the project goes beyond its functional role as an administrative facility and becomes a meaningful architectural statement: time is not only measured, it is planned, managed, and transformed into achievement.",
+  "scope": [
+   "Developed the architectural concept design, translating the project vision into clear spatial and visual design proposals.",
+   "Produced and developed the architectural model to evaluate massing, form, circulation, and key design elements.",
+   "Gathered, reviewed, and organized design information to support accurate and coordinated design development."
+  ],
+  "images": [
+   "assets/p/salmia-coop/01",
+   "assets/p/salmia-coop/02",
+   "assets/p/salmia-coop/03",
+   "assets/p/salmia-coop/04",
+   "assets/p/salmia-coop/05",
+   "assets/p/salmia-coop/06",
+   "assets/p/salmia-coop/07"
+  ],
+  "stats": [
+   {
+    "v": "Time Motif",
+    "l": "Architectural Concept"
+   },
+   {
+    "v": "3 Levels",
+    "l": "Basement + G + Mezz."
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "al-salam-coop",
+  "sheet": "A-406",
+  "title": "Al-Salam Co-operative Design Concepts",
+  "firm": "Trends",
+  "category": "Commercial & Mixed-Use",
+  "desc": "This urban-improvement proposal was developed for Al-Salam Co-operative Society to strengthen its public identity, improve everyday user experience, and enhance the commercial environment in the Al-Salam district. The scope combines architecture, interior design, public-realm interventions, and wayfinding elements within one coordinated design language. The proposal includes a new branch for the Al-Salam market, an extension to the existing central market, three landmark monument concepts for prominent roundabouts, and a contemporary bus-stop shelter. Interior visualizations were also developed for the Society Manager’s Office and reception area, creating a cohesive identity across public, commercial, and administrative spaces.",
+  "scope": [
+   "Developed the overall architectural and urban-design concept, establishing a unified identity for the Al-Salam Co-operative Society projects.",
+   "Produced architectural models and visualizations for the market expansion, new branch, public monuments, bus shelter, and interior spaces.",
+   "Designed and coordinated exterior façades, entrance features, landscape interfaces, and public-realm elements.",
+   "Developed interior-design proposals for the Manager’s Office and reception area, including spatial planning, material direction, furniture layout, and lighting atmosphere.",
+   "Gathered and reviewed site, functional, and stakeholder requirements to support practical and context-responsive design proposals."
+  ],
+  "images": [
+   "assets/p/al-salam-coop/01",
+   "assets/p/al-salam-coop/02",
+   "assets/p/al-salam-coop/03",
+   "assets/p/al-salam-coop/04",
+   "assets/p/al-salam-coop/05",
+   "assets/p/al-salam-coop/06",
+   "assets/p/al-salam-coop/07",
+   "assets/p/al-salam-coop/08",
+   "assets/p/al-salam-coop/09",
+   "assets/p/al-salam-coop/10",
+   "assets/p/al-salam-coop/11"
+  ],
+  "stats": [
+   {
+    "v": "Urban Identity",
+    "l": "Public Realm"
+   },
+   {
+    "v": "6",
+    "l": "Intervention Types"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "calligraphy",
+  "sheet": "A-501",
+  "title": "Architectural Calligraphy Concepts",
+  "firm": "Freelance",
+  "category": "Residential & Conceptual",
+  "desc": "I have the ability to integrate Arabic calligraphy as an architectural and artistic element, transforming it from written text or decoration into a meaningful part of the spatial and visual identity of a project. My approach combines the precision of letterform construction, geometric proportion, material expression, and the interaction of light and shadow to create impactful calligraphic installations. The attached work demonstrates the development of large-scale calligraphic compositions for interior walls and façades, ranging from contemporary geometric interpretations to designs inspired by traditional Islamic calligraphy. Each composition is carefully developed through the study of letter sequence, visual rhythm, positive and negative space, and overall proportion—ensuring that the text remains legible while achieving a strong artistic presence.",
+  "scope": [
+   "Designing raised and sculptural calligraphy, developing 3D models, testing scale and placement within architectural settings, and specifying suitable material and colour directions (natural stone, timber, metal, or dark contrasting finishes).",
+   "Enriching formal entrances, reception areas, mosques, cultural buildings, government institutions, hospitality projects, and commercial developments.",
+   "Using calligraphy as a design tool that connects Arabic and Islamic identity with contemporary architecture, giving projects a visual narrative and memorable spatial experience."
+  ],
+  "images": [
+   "assets/p/calligraphy/01",
+   "assets/p/calligraphy/02",
+   "assets/p/calligraphy/03",
+   "assets/p/calligraphy/04"
+  ],
+  "stats": [
+   {
+    "v": "Arabic",
+    "l": "Calligraphy Art"
+   },
+   {
+    "v": "Bespoke",
+    "l": "Spatial Integration"
+   }
+  ],
+  "ratio": 1.339
+ },
+ {
+  "slug": "al-reqaei-tower",
+  "sheet": "A-502",
+  "title": "Al-Reqaei Mixed-Use Tower Concept",
+  "firm": "Freelance",
+  "category": "Residential & Conceptual",
+  "desc": "This mixed-use residential tower is designed as a compact urban development that combines street-level commercial activity with residential accommodation above. The architectural expression emphasizes a strong vertical identity, with articulated façades, glazed corner elements, and a central entrance feature that creates a contemporary landmark presence within its surroundings. With a tower footprint of approximately 428 m², the design maximizes the efficiency of a limited site area through a clear vertical organization. Retail units activate the ground floor, while upper levels provide residential apartments arranged around dedicated circulation and service cores.",
+  "scope": [
+   "Developed the architectural concept, translating the project’s urban and functional narrative into a clear and contemporary design vision.",
+   "Produced and refined the architectural model to evaluate massing, spatial relationships, façade composition, and key design features.",
+   "Gathered, assessed, and organized design information to establish the project brief and support informed design decisions."
+  ],
+  "images": [
+   "assets/p/al-reqaei-tower/01",
+   "assets/p/al-reqaei-tower/02",
+   "assets/p/al-reqaei-tower/03",
+   "assets/p/al-reqaei-tower/04"
+  ],
+  "stats": [
+   {
+    "v": "Mixed-Use",
+    "l": "Tower Concept"
+   },
+   {
+    "v": "428 m²",
+    "l": "Tower Footprint"
+   }
+  ],
+  "ratio": 0.747
+ }
+]
